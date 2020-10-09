@@ -10,5 +10,5 @@ package javaapplication2;
  * @author lbbprof01
  */
 public class NewClassLuis {
-    
+    public void deed(){}
 }
